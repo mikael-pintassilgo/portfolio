@@ -4,4 +4,4 @@ date: 225-12-02
 ---
 
 You can download a notebook here:
-[A/B testing](/colab-notebooks/AB_test_of_a_product_form_redesign.ipynb)
+[A/B testing](https://gemini.google.com/app)
