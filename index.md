@@ -1,8 +1,13 @@
 ---
-title: Welcome to my portfolio
+title: Home
 ---
+Hi!
 
-Here I publish projects I completed for a company developing an ERP solution for businesses, as well as pet projects and projects at the universities where I studied.
+My name is Mikhail Shchegolkov.
+I work for a company developing an ERP system for small and medium businesses.
+I analyze interfaces, user behavior, product metrics, and assist my fellow developers as a product manager.
+
+Here I publish projects that I have completed on ERP system development projects, as well as my own projects and projects at the universities where I studied.
 
 For projects I completed for a company developing ERP solutions, I publish the generated data to protect the company's and its clients' information.
 
