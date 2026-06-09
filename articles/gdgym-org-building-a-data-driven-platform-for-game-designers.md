@@ -1,5 +1,6 @@
 ---
 title: GDGym.org – Building a Data-Driven Platform for Game Designers
+nav_exclude: true
 ---
 ## **My Role**
 
