@@ -1,8 +1,6 @@
 ---
 title: GDGym.org – Building a Data-Driven Platform for Game Designers
 ---
-# **GDGym.org – Building a Data-Driven Platform for Game Designers**
-
 ## **My Role**
 
 Product Owner, Product Analyst, Data Analyst, Content Creator, Python Developer.
