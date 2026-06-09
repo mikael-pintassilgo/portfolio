@@ -1,6 +1,3 @@
----
-nav_exclude: true
----
 # GDGym.org – Building a Data-Driven Platform for Game Designers
 
 ## **My Role**
