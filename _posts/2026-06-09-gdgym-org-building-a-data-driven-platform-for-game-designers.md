@@ -8,14 +8,13 @@ Product Owner, Product Analyst, Data Analyst, Content Creator, Python Developer.
 
 ## **Project Snapshot**
 
-* Developed and maintain an independent platform for game designers.  
-* Published 7 detailed deconstructions of popular and classic games.  
-* Structured and documented approximately 100 game design elements.  
-* Configured 8 custom GA4 events and tags to track user behavior.  
-* Implemented a custom engagement funnel to measure content exploration and user contributions.  
-* Configured analytics for both Google Search traffic and on-site search behavior.  
-* Use YouTube content as a user acquisition channel and analyze its impact on engagement metrics.  
-* Built automated content preparation workflows using Python, JSON, and Generative AI tools.
+* Founded and scaled an independent platform for game designers, combining product development, content creation, analytics, and growth marketing.
+* Produced 7 comprehensive game deconstructions and a structured database of 100+ game design elements to support learning, research, and ideation.
+* Implemented advanced GA4 tracking with 8 custom events, enabling detailed analysis of user engagement and content performance.
+* Built custom conversion and engagement funnels to identify user behavior patterns and drive data-informed product decisions.
+* Established end-to-end analytics covering organic acquisition, on-site search, and content discovery workflows.
+* Developed a YouTube-driven acquisition strategy and attribution framework using UTM tracking to evaluate traffic quality and user engagement.
+* Created automated content generation and processing pipelines using Python, JSON, and Generative AI technologies, improving operational efficiency and scalability.
 
 ## **Project Overview**
 
@@ -45,7 +44,7 @@ My current product goals are:
 * Increase average engagement time.  
 * Increase time spent on high-value content pages.  
 * Encourage deeper exploration of game-related content.  
-* Increase the number of user-generated contributions.  
+* Increase the number of variations of game elements that users add.
 * Increase interactions with community-created content.  
 * Improve conversion from readers to contributors.
 
@@ -91,6 +90,7 @@ Key tracked events include:
 * Submitting a new variation of a game element.  
 * Liking a community-submitted variation.  
 * Additional engagement-related actions throughout the platform.
+* Attribution analysis for YouTube acquisition campaigns.
 
 ## **Funnel Analysis**
 
@@ -145,11 +145,11 @@ To attract new users, I create educational content related to game design on [Yo
 
 Beyond generating traffic, my objective is to understand how different content types influence user behavior after arriving on the website.
 
-Future analytics improvements include tracking:
+GA4 and UTM in particular allows me to track the following data:
 
 * Which videos generate the highest-quality traffic.  
-* Which traffic sources produce the most engaged users.  
-* Which acquisition channels lead to user contributions.  
+* Which videos produce the most engaged users.  
+* Which videos lead to user contributions.  
 * How engagement differs depending on the entry point into the platform.
 
 This will allow acquisition performance to be evaluated using behavioral metrics rather than traffic volume alone.
@@ -176,8 +176,7 @@ As the platform grows, I plan to expand the analytics stack and analytical capab
 * User segmentation.  
 * Cohort analysis.  
 * Retention measurement.  
-* Attribution analysis for YouTube acquisition campaigns.  
-* User-generated content conversion analysis.  
+* Advanced user-generated content conversion analysis.  
 * Experimentation and A/B testing.
 
 The long-term objective is to build a self-improving product where decisions about content, features, and user experience are driven by measurable user behavior.
