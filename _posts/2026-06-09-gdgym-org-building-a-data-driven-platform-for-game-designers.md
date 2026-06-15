@@ -211,7 +211,8 @@ The long-term objective is to build a self-improving product where decisions abo
 * Python  
 * JSON Data Modeling  
 * Automation Workflows  
-* Client-Server Architecture  
+* Client-Server Architecture
+* Git Version Control System, [https://github.com/mikael-pintassilgo](https://github.com/mikael-pintassilgo)
 * Web Product Development (HMTL, CSS, Flask, Bootstrap, SQLAlchemy and others)
 
 ### **AI and Data Enrichment**
