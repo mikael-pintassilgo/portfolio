@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 # Mikhail Shchegolkov - Data Analyst
-mikael.pintassilgo@gmail.com  
+[mikael.pintassilgo@gmail.com](mailto:mikael.pintassilgo@gmail.com)  
 European Union
 
 ## Professional Summary
@@ -54,7 +54,8 @@ Managed the full product lifecycle from discovery and requirements gathering to 
 * Power BI, ETL, Microsoft Fabric,
 * CJM, JTBD,
 * Figma
-* HTML, CSS, JavaScript, Flask
+* HTML, CSS, JavaScript, Flask,
+* Git, GitHub, GitLab
 
 ## Other Skills
 Game Design
