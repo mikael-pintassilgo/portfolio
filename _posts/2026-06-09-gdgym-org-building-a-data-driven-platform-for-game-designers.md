@@ -92,6 +92,8 @@ Key tracked events include:
 * Additional engagement-related actions throughout the platform.
 * Attribution analysis for YouTube acquisition campaigns.
 
+Implemented custom variables (game_name and game_element_name) in the data layer and integrated them with Google Tag Manager. This made it possible to group and analyze user interactions by individual games and game design elements, providing more granular insights into content engagement.
+
 ## **Funnel Analysis**
 
 One of the primary objectives is understanding how users progress from consuming content to actively contributing.
