@@ -2,16 +2,15 @@
 layout: page
 title: CV
 ---
-# Mikhail Shchegolkov
-### Data Analyst
+# Mikhail Shchegolkov - Data Analyst
 mikael.pintassilgo@gmail.com  
 European Union
 
 ## Professional Summary
-Data-driven product analyst and UX researcher with 20+ years in software development, specializing in ERP systems. Bridging user experience insights with analytics to drive product improvements and optimize performance. Skilled in Python, SQL and data visualisation.
+Data-driven product analyst and UX researcher with 20+ years in software development, specializing in ERP systems. Bridging user experience insights with analytics to drive product improvements and optimize performance. Skilled in Python, SQL, data visualisation and Google Analytics.
 
 ## Experience
-UX Lead
+**UX Lead**  
 August 2014 – Present - 11 years
 
 In the team developing an ERP solution for small businesses, led user research initiatives including A/B testing, usability testing, in-depth interviews (CJM, JTBD), and surveys.
@@ -51,6 +50,7 @@ Managed the full product lifecycle from discovery and requirements gathering to 
 * Python, Pandas, NumPy, 
 * Matplotlib, Scikit-learn, SQL, 
 * Machine Learning
+* Google Analytics 4, Google Tag Manager,
 * Power BI, ETL, Microsoft Fabric,
 * CJM, JTBD,
 * Figma
