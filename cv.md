@@ -1,3 +1,7 @@
+---
+layout: page
+title: CV
+---
 # Mikhail Shchegolkov
 ### Data Analyst
 mikael.pintassilgo@gmail.com  
