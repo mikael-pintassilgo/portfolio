@@ -4,19 +4,27 @@ mikael.pintassilgo@gmail.com
 European Union
 
 ## Professional Summary
-Data-driven product analyst and UX researcher with 20+ years in software development, specializing in ERP systems. Bridging user experience insights with analytics to drive product improvements and optimize performance. Skilled in Python, SQL and BI platforms.
+Data-driven product analyst and UX researcher with 20+ years in software development, specializing in ERP systems. Bridging user experience insights with analytics to drive product improvements and optimize performance. Skilled in Python, SQL and data visualisation.
 
 ## Experience
 UX Lead
 August 2014 – Present - 11 years
 
-In the team developing an ERP solution for small businesses: led user research initiatives including A/B testing, usability tests, in-depth interviews (CJM, JTBD), and surveys.
-This made it possible to test hypotheses, adjust the product development strategy and improve usability (SUS - from 60 to 82 in the main use cases).
-Conducted secondary research by implementing and analyzing internal analytics and statistics, performing competitor analysis, and analyzing user support calls and feedback.
-This allowed us to identify hidden needs, prioritize the backlog, and reduce the number of support calls from 15% to 60% (depending on the area).
-Designed the UX of the ERP system's new features, ensuring alignment with user workflows and business objectives, optimizing user performance.
-Collaborated with developers, overseeing design solutions and preparing product documentation and training videos.
-Managed the product lifecycle from requirements gathering and task prioritization to post-launch support in teams of 4-20 people.
+In the team developing an ERP solution for small businesses, led user research initiatives including A/B testing, usability testing, in-depth interviews (CJM, JTBD), and surveys.
+This enabled hypothesis validation, informed product strategy decisions, and improved usability, resulting in a 40% increase in usability (SUS) across key user journeys.
+
+Conducted quantitative and qualitative product analysis by implementing and analyzing internal analytics, defining product KPIs, monitoring user behavior, conversion funnels, feature adoption, and support metrics, as well as performing competitor analysis and analyzing customer feedback and support calls.
+This allowed us to identify hidden user needs, uncover product bottlenecks, prioritize the backlog based on business impact and user value, and significantly reduce support requests across multiple product areas.
+
+Led a large-scale redesign and migration to a new design system, redesigning and validating more than 1,000 ERP forms and interfaces.
+Used product analytics, user feedback, usability testing, and behavioral data to identify friction points, measure adoption, and optimize the new experience, resulting in a substantial decrease in user returns to the legacy interface and higher adoption of the new design system.
+
+Designed UX solutions for new ERP features, ensuring alignment with user workflows, business objectives, and product metrics while optimizing user efficiency.
+
+Collaborated closely with developers, overseeing implementation quality, defining acceptance criteria, and preparing product documentation and training materials.
+
+Managed the full product lifecycle from discovery and requirements gathering to prioritization, release, post-launch analysis, and continuous product optimization in cross-functional teams of 4–20 people.
+
 
 ## Education
 **Master in Information Management** - Nova IMS - 2023-2025, Lisbon
