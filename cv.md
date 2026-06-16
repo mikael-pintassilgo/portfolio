@@ -3,7 +3,7 @@ layout: page
 title: CV
 ---
 # Mikhail Shchegolkov - Data Analyst
-mikael.pintassilgo@gmail.com  
+[mikael.pintassilgo@gmail.com](mailto:mikael.pintassilgo@gmail.com)  
 European Union
 
 ## Professional Summary
