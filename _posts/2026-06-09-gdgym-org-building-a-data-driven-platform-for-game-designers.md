@@ -2,11 +2,26 @@
 layout: post
 title: "GDGym.org – Building a Data-Driven Platform for Game Designers"
 ---
-## **My Role**
+## Table of Contents
+* [My Role](#my-role)
+* [Project Snapshot](#project-snapshot)
+* [Project Overview](#project-overview)
+* [Product Challenge](#product-challenge)
+* [Content Development](#content-development)
+* [Analytics Infrastructure](#analytics-infrastructure)
+* [Funnel Analysis](#funnel-analysis)
+* [Search Analytics](#search-analytics)
+* [User Acquisition](#user-acquisition)
+* [Automation and Data Workflows](#automation-and-data-workflows)
+* [Future Roadmap](#future-roadmap)
+* [Skills Demonstrated](#skills-demonstrated)
+* [Key Takeaway](#key-takeaway)
+
+## My Role
 
 Product Owner, Product Analyst, Data Analyst, Content Creator, Python Developer.
 
-## **Project Snapshot**
+## Project Snapshot
 
 * Founded and scaled an independent platform for game designers, combining product development, content creation, analytics, and growth marketing.
 * Produced 7 comprehensive game deconstructions and a structured database of 100+ game design elements to support learning, research, and ideation.
@@ -16,7 +31,7 @@ Product Owner, Product Analyst, Data Analyst, Content Creator, Python Developer.
 * Developed a YouTube-driven acquisition strategy and attribution framework using UTM tracking to evaluate traffic quality and user engagement.
 * Created automated content generation and processing pipelines using Python, JSON, and Generative AI technologies, improving operational efficiency and scalability.
 
-## **Project Overview**
+## Project Overview
 
 As a Data Analyst, I believe it is important to understand not only how to analyze data but also how the systems generating that data work. This includes websites, client-server architecture, analytics platforms, content management workflows, and digital product development.
 
@@ -33,7 +48,7 @@ Users can:
 * Evaluate and like ideas submitted by other users.  
 * Participate in game design challenges (currently in development).
 
-## **Product Challenge**
+## Product Challenge
 
 The main product challenge is increasing user engagement.
 
@@ -50,7 +65,7 @@ My current product goals are:
 
 To support these goals, I follow a Data-Driven Decision Making approach and use analytics to identify opportunities for product improvement.
 
-## **Content Development**
+## Content Development
 
 Building a meaningful knowledge base was one of the first priorities for the project.
 
@@ -63,7 +78,7 @@ To establish an initial content foundation, I:
 
 The content structure was designed to encourage users to move between related concepts and discover new game design ideas.
 
-## **Analytics Infrastructure**
+## Analytics Infrastructure
 
 To support data-driven product development, I implemented a custom analytics framework using:
 
@@ -92,7 +107,9 @@ Key tracked events include:
 * Additional engagement-related actions throughout the platform.
 * Attribution analysis for YouTube acquisition campaigns.
 
-## **Funnel Analysis**
+Implemented custom variables (game_name and game_element_name) in the data layer and integrated them with Google Tag Manager. This made it possible to group and analyze user interactions by individual games and game design elements, providing more granular insights into content engagement.
+
+## Funnel Analysis
 
 One of the primary objectives is understanding how users progress from consuming content to actively contributing.
 
@@ -109,13 +126,13 @@ The funnel helps identify:
 
 This framework allows me to evaluate whether product changes increase the likelihood that users become active contributors rather than passive readers.
 
-## **Search Analytics**
+## Search Analytics
 
 Search behavior provides valuable insight into user intent.
 
 To better understand what users are looking for, I implemented analytics for both external and internal search activity.
 
-### **Google Search Analytics**
+### Google Search Analytics
 
 Using Google Search Console, I track:
 
@@ -126,7 +143,7 @@ Using Google Search Console, I track:
 
 This information helps prioritize future content based on actual user demand.
 
-### **On-Site Search Analytics**
+### On-Site Search Analytics
 
 I also track search queries entered directly on the website.
 
@@ -139,7 +156,7 @@ This allows me to:
 
 The combination of external and internal search analytics helps guide content strategy and product development decisions.
 
-## **User Acquisition Experiments**
+## User Acquisition
 
 To attract new users, I create educational content related to game design on [YouTube](https://www.youtube.com/@MikaelPintassilgo).
 
@@ -154,7 +171,7 @@ GA4 and UTM in particular allows me to track the following data:
 
 This will allow acquisition performance to be evaluated using behavioral metrics rather than traffic volume alone.
 
-## **Automation and Data Workflows**
+## Automation and Data Workflows
 
 A significant portion of the platform's content creation process is automated.
 
@@ -166,7 +183,7 @@ Additionally, during my Master's studies at Nova IMS in Lisbon, I completed cour
 
 The combination of automation and AI-assisted workflows allows the platform to scale content production while maintaining structure and quality.
 
-## **Future Roadmap**
+## Future Roadmap
 
 As the platform grows, I plan to expand the analytics stack and analytical capabilities through:
 
@@ -181,9 +198,9 @@ As the platform grows, I plan to expand the analytics stack and analytical capab
 
 The long-term objective is to build a self-improving product where decisions about content, features, and user experience are driven by measurable user behavior.
 
-## **Skills Demonstrated**
+## Skills Demonstrated
 
-### **Product Analytics**
+### Product Analytics
 
 * Product Metrics Definition  
 * User Engagement Analysis  
@@ -191,7 +208,7 @@ The long-term objective is to build a self-improving product where decisions abo
 * User Behavior Tracking  
 * Conversion Optimization
 
-### **Web Analytics**
+### Web Analytics
 
 * Google Analytics 4  
 * Google Tag Manager  
@@ -199,14 +216,14 @@ The long-term objective is to build a self-improving product where decisions abo
 * Event Tracking  
 * Search Analytics
 
-### **Data Analytics**
+### Data Analytics
 
 * Data-Driven Decision Making  
 * KPI Definition  
 * User Segmentation Planning  
 * Content Performance Analysis
 
-### **Technical Skills**
+### Technical Skills
 
 * Python  
 * JSON Data Modeling  
@@ -215,13 +232,13 @@ The long-term objective is to build a self-improving product where decisions abo
 * Git Version Control System, [https://github.com/mikael-pintassilgo](https://github.com/mikael-pintassilgo)
 * Web Product Development (HMTL, CSS, Flask, Bootstrap, SQLAlchemy and others)
 
-### **AI and Data Enrichment**
+### AI and Data Enrichment
 
 * Generative AI Applications  
 * Content Generation Workflows  
 * Prompt Engineering
 
-## **Key Takeaway**
+## Key Takeaway
 
 GDGym.org serves as both a product and an analytical laboratory where I can apply product analytics, web analytics, automation, and AI-assisted workflows in a real-world environment.
 

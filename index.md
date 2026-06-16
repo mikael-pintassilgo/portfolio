@@ -6,7 +6,7 @@ Hi!
 
 My name is Mikhail Shchegolkov.
 I work for a company developing an ERP system for small and medium businesses.
-I analyze interfaces, user behavior, product metrics, and assist my fellow developers as a product manager.
+I analyze interfaces, user behavior, product metrics, and assist my fellow developers and managers.
 
 Here I publish projects that I have completed on ERP system development projects (the generated data), as well as my own projects and projects at the universities where I studied.
 
