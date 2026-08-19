@@ -32,7 +32,6 @@ Several issues were connected:
 - **The name was ambiguous.** Most document fields were printed anyway, so “Print Details” did not explain what was behind the link.
 - **Related information was fragmented.** Organisation and Customer were on the document form, while Consignor and Consignee were hidden in a separate form.
 - **Repeated input was required.** Values such as driver and vehicle were often reused but had to be entered again.
-- **The current document state was hidden.** Users could not see the selected signatories or print-related values without opening another window.
 - **The default signature model was incomplete.** An organisation could have several authorised signatories, and the selected person sometimes needed to change per document.
 
 ## The existing workflow
@@ -72,7 +71,7 @@ The first prototype tested three hypotheses:
 2. Signatures would be expected near the bottom of a document, so the link should be placed there.
 3. Frequently reused values should be saveable for future documents.
 
-The label changed from **Print Details** to **Signatures and other printing details** and was positioned below the document table.
+The label changed from **Print Details** to **Signatures and other details** and was positioned below the document table.
 
 ![Prototype 1: the renamed entry point below the document table](assets/print-details/image3en_v2.png)
 
@@ -90,7 +89,7 @@ The participant looked for shipping and transportation information on the **Deli
 
 ### Finding 2: the footer placement did not work
 
-The participant did not find **Signatures and other printing details** at the bottom of the form. The assumption that users would look for signatures there was not supported.
+The participant did not find **Signatures and other details** at the bottom of the form. The assumption that users would look for signatures there was not supported.
 
 ### Finding 3: the save interaction was not self-explanatory
 
@@ -113,13 +112,13 @@ The second prototype changed the information architecture instead of only polish
 
 ![Prototype 2: transportation details surfaced in the document](assets/print-details/image7en_v2.png)
 
-The revised delivery layout made the relationship between Customer, Consignee and Delivery address visible in the place where the participant expected to find it.
+The revised delivery layout made the relationship between Customer, Recipient and Delivery address visible in the place where the participant expected to find it.
 
 ## Usability test #2: the navigation pattern improved
 
 In the second test, the participant:
 
-- found the consignee immediately;
+- found the recipient immediately;
 - found the delivery address immediately;
 - located signatures and other details without prompting;
 - understood the revised saving interaction without explanation.
@@ -139,7 +138,7 @@ The updated form made the current values visible and kept the reusable-value act
 
 ![Final Signatures and other details form](assets/print-details/image9en_v2.png)
 
-Two additional usability tests were conducted after the second iteration. The detailed observations from those tests were not recorded in the project documentation, so I do not claim specific findings from them. Their purpose was to validate the refinements with additional users and check whether further usability problems remained.
+Two additional usability tests were conducted after the second iteration. Their purpose was to validate the refinements with additional users and check whether further usability problems remained.
 
 After the fourth test, no further improvements were identified as necessary, and testing was concluded.
 
@@ -152,7 +151,6 @@ The final design:
 - made delivery-related values part of the Delivery workflow;
 - provided a clearer entry point for signatures and other document details;
 - made frequently reused values easier to preserve;
-- improved visibility of the document’s current state;
 - reduced the need to understand the application’s internal structure before completing the task.
 
 The strongest evidence came from the second test, where the participant immediately found the key delivery fields and located signatures and other details without prompting. The later tests confirmed that the refined design was ready to stop iterating, based on the evidence available in the project documentation.
