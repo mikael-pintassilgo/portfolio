@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: "When Users Can't Find Existing Value"
 description: "Redesigning Print Details around users' mental models"
 ---
