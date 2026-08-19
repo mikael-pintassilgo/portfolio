@@ -135,7 +135,7 @@ I refined the delivery-address interaction and the selection and clearing behavi
 
 The updated form made the current values visible and kept the reusable-value actions close to the fields they affected.
 
-![Final document workflow with delivery information visible](assets/print-details/image8en.png)
+![Final document workflow with delivery information visible](assets/print-details/image8en_v2.png)
 
 ![Final Signatures and other details form](assets/print-details/image9en_v2.png)
 
@@ -190,3 +190,6 @@ The first prototype was based on reasonable assumptions, but testing showed that
 
 Good enterprise UX is not necessarily about adding more functionality. It is about making the functionality users already need understandable, discoverable and aligned with the way they work.
 
+### Additional source screens
+
+![Moderated usability testing in progress](assets/print-details/image5.png)
