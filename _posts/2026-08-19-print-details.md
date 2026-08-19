@@ -43,7 +43,7 @@ The entry point was located on the **Additional** tab, below the main document c
 
 When selected, it opened a separate editing form with expandable sections for signatures, consignor, consignee, banking, guarantees and transportation.
 
-![Original Print Details form](assets/print-details/image2en.png)
+![Original Print Details form](assets/print-details/image2en_v2.png)
 
 The system’s structure was internally consistent, but users had to understand that structure before they could find the information they needed.
 
