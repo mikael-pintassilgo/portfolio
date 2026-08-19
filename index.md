@@ -11,7 +11,7 @@ I analyze interfaces, user behavior, product metrics, and assist my fellow devel
 Here I publish projects that I have completed on ERP system development projects (the generated data), as well as my own projects and projects at the universities where I studied.
 
 Selected product analytics & discovery projects:
-- [When Users Can't Find Existing Value](https://mikael-pintassilgo.github.io/portfolio/2026/08/19/print-details.md)
+- [When Users Can't Find Existing Value](https://mikael-pintassilgo.github.io/portfolio/2026/08/19/print-details.html)
 - [A/B testing of a new product form design in an ERP system](https://github.com/mikael-pintassilgo/portfolio/blob/main/colab-notebooks/AB_test_of_a_product_form_redesign.ipynb)
 
 Additional data & AI projects:
