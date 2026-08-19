@@ -74,11 +74,11 @@ The first prototype tested three hypotheses:
 
 The label changed from **Print Details** to **Signatures and other printing details** and was positioned below the document table.
 
-![Prototype 1: the renamed entry point below the document table](assets/print-details/image3en.png)
+![Prototype 1: the renamed entry point below the document table](assets/print-details/image3en_v2.png)
 
 The Print Details form also received a mechanism for saving selected values for future documents.
 
-![Prototype 1: saving frequently reused values](assets/print-details/image4en.png)
+![Prototype 1: saving frequently reused values](assets/print-details/image4en_v2.png)
 
 ## Usability test #1: our assumptions were wrong
 
@@ -111,7 +111,7 @@ The second prototype changed the information architecture instead of only polish
 
 ![Prototype 2: the entry point moved to the document header](assets/print-details/image6en.png)
 
-![Prototype 2: consignor, consignee and delivery address on the Delivery tab](assets/print-details/image8en.png)
+![Prototype 2: transportation details surfaced in the document](assets/print-details/image7en_v2.png)
 
 The revised delivery layout made the relationship between Customer, Consignee and Delivery address visible in the place where the participant expected to find it.
 
@@ -137,7 +137,7 @@ The updated form made the current values visible and kept the reusable-value act
 
 ![Final document workflow with delivery information visible](assets/print-details/image8en.png)
 
-![Final Signatures and other details form](assets/print-details/image9en.png)
+![Final Signatures and other details form](assets/print-details/image9en_v2.png)
 
 Two additional usability tests were conducted after the second iteration. The detailed observations from those tests were not recorded in the project documentation, so I do not claim specific findings from them. Their purpose was to validate the refinements with additional users and check whether further usability problems remained.
 
@@ -190,10 +190,3 @@ The first prototype was based on reasonable assumptions, but testing showed that
 
 Good enterprise UX is not necessarily about adding more functionality. It is about making the functionality users already need understandable, discoverable and aligned with the way they work.
 
-### Additional source screens
-
-![Goods and services tab in the original document](assets/print-details/image3en.png)
-
-![Prototype form with saved transportation values](assets/print-details/image4en.png)
-
-![Prototype 2: transportation details surfaced in the document](assets/print-details/image7en.png)
