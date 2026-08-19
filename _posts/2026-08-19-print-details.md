@@ -39,12 +39,10 @@ Several issues were connected:
 
 The entry point was located on the **Additional** tab, below the main document content.
 
-![[image1en.png]]
 ![Original document form with the Print Details link highlighted](assets/print-details/image1en.png)
 
 When selected, it opened a separate editing form with expandable sections for signatures, consignor, consignee, banking, guarantees and transportation.
 
-![[image2en.png]]
 ![Original Print Details form](assets/print-details/image2en.png)
 
 The system’s structure was internally consistent, but users had to understand that structure before they could find the information they needed.
