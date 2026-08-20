@@ -190,4 +190,4 @@ Good enterprise UX is not necessarily about adding more functionality. It is abo
 
 ### Additional source screens
 
-![Moderated usability testing in progress](assets/print-details/image5.png)
+![Moderated usability testing in progress](/portfolio/assets/print-details/image5.png)
