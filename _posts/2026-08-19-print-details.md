@@ -38,7 +38,7 @@ Several issues were connected:
 
 The entry point was located on the **Additional** tab, below the main document content.
 
-![Original document form with the Print Details link highlighted](/_posts/assets/print-details/image1en.png)
+![Original document form with the Print Details link highlighted](/portfolio/assets/print-details/image1en.png)
 
 When selected, it opened a separate editing form with expandable sections for signatures, consignor, consignee, banking, guarantees and transportation.
 
