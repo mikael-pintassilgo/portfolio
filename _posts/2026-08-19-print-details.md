@@ -38,11 +38,11 @@ Several issues were connected:
 
 The entry point was located on the **Additional** tab, below the main document content.
 
-![Original document form with the Print Details link highlighted](/_posts/assets/print-details/image1en.png)
+![Original document form with the Print Details link highlighted](/portfolio/assets/print-details/image1en.png)
 
 When selected, it opened a separate editing form with expandable sections for signatures, consignor, consignee, banking, guarantees and transportation.
 
-![Original Print Details form](/_posts/assets/print-details/image2en_v2.png)
+![Original Print Details form](/portfolio/assets/print-details/image2en_v2.png)
 
 The system’s structure was internally consistent, but users had to understand that structure before they could find the information they needed.
 
@@ -73,11 +73,11 @@ The first prototype tested three hypotheses:
 
 The label changed from **Print Details** to **Signatures and other details** and was positioned below the document table.
 
-![Prototype 1: the renamed entry point below the document table](/_posts/assets/print-details/image3en_v2.png)
+![Prototype 1: the renamed entry point below the document table](/portfolio/assets/print-details/image3en_v2.png)
 
 The Print Details form also received a mechanism for saving selected values for future documents.
 
-![Prototype 1: saving frequently reused values](/_posts/assets/print-details/image4en_v2.png)
+![Prototype 1: saving frequently reused values](/portfolio/assets/print-details/image4en_v2.png)
 
 ## Usability test #1: our assumptions were wrong
 
@@ -108,9 +108,9 @@ The second prototype changed the information architecture instead of only polish
 - The entry point moved to the upper-right area of the document header.
 - The saving interaction became a field-level action next to the reusable value.
 
-![Prototype 2: the entry point moved to the document header](/_posts/assets/print-details/image6en.png)
+![Prototype 2: the entry point moved to the document header](/portfolio/assets/print-details/image6en.png)
 
-![Prototype 2: transportation details surfaced in the document](/_posts/assets/print-details/image7en_v2.png)
+![Prototype 2: transportation details surfaced in the document](/portfolio/assets/print-details/image7en_v2.png)
 
 The revised delivery layout made the relationship between Customer, Recipient and Delivery address visible in the place where the participant expected to find it.
 
@@ -134,9 +134,9 @@ I refined the delivery-address interaction and the selection and clearing behavi
 
 The updated form made the current values visible and kept the reusable-value actions close to the fields they affected.
 
-![Final document workflow with delivery information visible](/_posts/assets/print-details/image8en_v2.png)
+![Final document workflow with delivery information visible](/portfolio/assets/print-details/image8en_v2.png)
 
-![Final Signatures and other details form](/_posts/assets/print-details/image9en_v2.png)
+![Final Signatures and other details form](/portfolio/assets/print-details/image9en_v2.png)
 
 Two additional usability tests were conducted after the second iteration. Their purpose was to validate the refinements with additional users and check whether further usability problems remained.
 
@@ -190,4 +190,4 @@ Good enterprise UX is not necessarily about adding more functionality. It is abo
 
 ### Additional source screens
 
-![Moderated usability testing in progress](assets/print-details/image5.png)
+![Moderated usability testing in progress](/portfolio/assets/print-details/image5.png)
