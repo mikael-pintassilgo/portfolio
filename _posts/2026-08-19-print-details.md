@@ -4,8 +4,6 @@ title: "When Users Can't Find Existing Value"
 description: "Redesigning Print Details around users' mental models"
 ---
 
-# When Users Can't Find Existing Value
-
 ## Redesigning “Print Details” around users’ mental models
 
 **Case type:** Product Discovery · Enterprise UX · UX Research  
