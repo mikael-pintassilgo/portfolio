@@ -20,6 +20,7 @@ I am particularly interested in complex products where understanding user behavi
 
 Selected product analytics & discovery projects:
 - [When Users Can't Find Existing Value](https://mikael-pintassilgo.github.io/portfolio/2026/08/19/print-details.html)
+- [Quantity Reset](https://mikael-pintassilgo.github.io/portfolio/2026/08/31/quantity-reset.html)
 - [A/B testing of a new product form design in an ERP system](https://github.com/mikael-pintassilgo/portfolio/blob/main/colab-notebooks/AB_test_of_a_product_form_redesign.ipynb)
 - [Analyzing Game Reviews on the Play Store](https://github.com/mikael-pintassilgo/portfolio/blob/my-pages/colab-notebooks/Play_Store_Review_Analysis.ipynb)
 
