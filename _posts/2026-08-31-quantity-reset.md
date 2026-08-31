@@ -176,6 +176,8 @@ The purpose was to understand the existing interaction patterns and expectations
 
 I ran a first-click test with **184 participants**.
 
+![The fist-click test result](/portfolio/assets/quantity-reset/image2.png)
+
 The participants were asked to identify where they would look for the control.
 
 The results were distributed across several locations:
@@ -305,6 +307,8 @@ The user can also choose:
 > **“Remember the selected value and don't show this again.”**
 
 This supports both first-time discovery and subsequent uninterrupted work.
+
+![The dialog asking what to do with the quantity](/portfolio/assets/quantity-reset/image1en.png)
 
 To change the setting later, users can access it through several paths:
 
