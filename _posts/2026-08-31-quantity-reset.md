@@ -304,7 +304,7 @@ When a product is changed, users can be presented with a dialog asking what to d
 
 The user can also choose:
 
-> **“Remember the selected value and don't show this again.”**
+> **“Do not show again (remember the selected value)”**
 
 This supports both first-time discovery and subsequent uninterrupted work.
 
