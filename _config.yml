@@ -5,3 +5,9 @@ baseurl: "/portfolio"
 
 author:
   name: Mikhail Shchegolkov
+
+image:
+  path: /portfolio/og-image.png
+  width: 1734
+  height: 907
+  alt: "Mikhail Shchegolkov — Product Analyst"
