@@ -1,6 +1,12 @@
 ---
 layout: page
 title: Portfolio
+description: "Product Analyst with 12+ years of experience combining Product Analytics, Product Discovery, UX Research and experimentation to reduce uncertainty and evolve complex software products."
+image:
+  path: /portfolio/og-image.png
+  width: 1734
+  height: 907
+  alt: "Mikhail Shchegolkov — Product Analyst"
 ---
 # Mikhail Shchegolkov
 
