@@ -1,3 +1,7 @@
 theme: minima
 title: Mikhail Shchegolkov
+description: "Product Analyst with 12+ years of experience combining Product Analytics, Product Discovery, UX Research and experimentation to reduce uncertainty and evolve complex software products."
 baseurl: "/portfolio"
+
+author:
+  name: Mikhail Shchegolkov
