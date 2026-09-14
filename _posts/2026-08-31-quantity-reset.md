@@ -174,7 +174,7 @@ The purpose was to understand the existing interaction patterns and expectations
 
 ## 6. Where would users look?
 
-I ran a first-click test with **184 participants**.
+I ran a first-click test with more then **30 participants**. Within the UX research community, it is generally accepted that this number is sufficient for making a decision. For example, GitLab recommends using 30 participants: [first-click-testing](https://gitlab.com/gitlab-com/content-sites/handbook/-/blob/131630b97f/content/handbook/product/ux/ux-research/first-click-testing.md)
 
 ![The fist-click test result](/portfolio/assets/quantity-reset/image2.png)
 
